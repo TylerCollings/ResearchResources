@@ -1,4 +1,4 @@
-# Resources for Research Statistics & Data science
+# Resources for Research, Statistics, & Data science
 
 ## Table of contents
 [Biomechanics](#Biomechanics)
@@ -7,4 +7,5 @@
 
 ## Biomechanics
 ## Statistics
+### Sample size
 ## Data science
