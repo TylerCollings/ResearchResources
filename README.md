@@ -6,7 +6,7 @@
 [Data science](#Datas-science)
 
 ## Biomechanics
-[pytransform3d](https://dfki-ric.github.io/pytransform3d/)
+[3D transformations documentation & definitions - pytransform3d](https://dfki-ric.github.io/pytransform3d/)
 ## Statistics
 ### Sample size
 ## Data science
