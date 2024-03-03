@@ -12,6 +12,8 @@
 
 ## 🦴 Biomechanics
 * 3D transformations documentation & definitions - [pytransform3d](https://dfki-ric.github.io/pytransform3d/)
+* Read, modify, and write C3D in Python - [EZC3D](https://github.com/pyomeca/ezc3d)
+  
 ## Statistics
 ### 🧑‍🤝‍🧑 Sample size
 
