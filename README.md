@@ -17,9 +17,13 @@
 ## Statistics
 ### 🧑‍🤝‍🧑 Sample size
 
+### 🔢 Linear mixed effects models
+* Random effects structure: Keep it maximal - [Barr et al. 2013](https://doi.org/10.1016/j.jml.2012.11.001)
+* Random effects model selection based on data structure - [Matuschek et al. 2017](https://doi.org/10.1016/j.jml.2017.01.001)
+
 ## Data science
 
-## ➡️ Causal inferences
+## ⤵️ Causal inferences
 * DAGs tutorial & activity - [DAGGLE shiny app](https://cbdrh.shinyapps.io/daggle)
 
 ## Data visualisation
@@ -27,9 +31,16 @@
 * Example of data visualisation - [The R Graph Gallery](https://r-graph-gallery.com/index.html)
 
 ### 🎨 Colors
+* R color paletteer - [Paletteer](https://r-charts.com/color-palettes/)
+* Color palette collection - [Give Me Colors](https://observablehq.com/@makio135/give-me-colors)
+
+### R
+* Slab + interval stats and geoms -[ggdist](https://cran.r-project.org/web/packages/ggdist/vignettes/slabinterval.html)
 
 ## 📷 Images
 * Free to use stock images - [Pexels](https://www.website.com](https://www.pexels.com/)https://www.pexels.com/)
 * Free to use PNG images - [HiClipart](https://www.hiclipart.com/)
 * Free to use PNG images - [TopPNG](https://toppng.com/)
+* Free icons and stickers - [FlatIcon](https://www.flaticon.com/)
+* Free icons - [ionicons](https://ionic.io/ionicons/)
 
