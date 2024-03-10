@@ -15,6 +15,7 @@
 * Read, modify, and write C3D in Python - [EZC3D](https://github.com/pyomeca/ezc3d)
   
 ## Statistics
+* Improving Your Statistical Inferences - Daniel Lakens [online book](https://lakens.github.io/statistical_inferences/)
 ### 🧑‍🤝‍🧑 Sample size
 
 ### 🔢 Linear mixed effects models
