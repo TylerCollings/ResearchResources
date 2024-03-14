@@ -40,7 +40,7 @@
 * Slab + interval stats and geoms -[ggdist](https://cran.r-project.org/web/packages/ggdist/vignettes/slabinterval.html)
 
 ## 📷 Images
-* Free to use stock images - [Pexels](https://www.website.com](https://www.pexels.com/)https://www.pexels.com/)
+* Free to use stock images - [Pexels](https://www.pexels.com/)
 * Free to use PNG images - [HiClipart](https://www.hiclipart.com/)
 * Free to use PNG images - [TopPNG](https://toppng.com/)
 * Free icons and stickers - [FlatIcon](https://www.flaticon.com/)
