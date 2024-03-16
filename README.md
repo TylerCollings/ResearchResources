@@ -25,7 +25,7 @@
 ## Data science
 
 ## ⤵️ Causal inferences
-THE EFFECT....
+* Causal inference - [The Effect: An Introduction to Research Design and Causality](https://www.theeffectbook.net/index.html)
 * DAGs tutorial & activity - [DAGGLE shiny app](https://cbdrh.shinyapps.io/daggle)
 * In search of fewer independent risk factors - [Brotman et al. 2005](https://doi.org/10.1001/archinte.165.2.138)
 
