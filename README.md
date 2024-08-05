@@ -29,6 +29,7 @@
 ## ⤵️ Causal inferences
 * The Effect: An Introduction to Research Design and Causality - [Online book](https://www.theeffectbook.net/index.html)
 * DAGGLE: DAGs tutorial & activity - [Shiny app](https://cbdrh.shinyapps.io/daggle)
+* DAGitty — draw and analyze causal diagrams - [Website Link](https://www.dagitty.net/).
 * In search of fewer independent risk factors - Brotman et al. 2005 - [Article link](https://doi.org/10.1001/archinte.165.2.138)
 
 ## Data visualisation
