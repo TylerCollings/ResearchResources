@@ -26,6 +26,9 @@
 
 ## Data science
 
+## General
+* R for Data Science (2nd Edition) - [Online book](https://r4ds.hadley.nz/)
+  
 ## ⤵️ Causal inferences
 * The Effect: An Introduction to Research Design and Causality - [Online book](https://www.theeffectbook.net/index.html)
 * DAGGLE: DAGs tutorial & activity - [Shiny app](https://cbdrh.shinyapps.io/daggle)
