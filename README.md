@@ -1,10 +1,5 @@
 # Resources for Research, Statistics, & Data science
-
-## Table of contents
-[Biomechanics](#Biomechanics)  
-[Statistics](#Statistics)  
-[Data science](#Datas-science)  
-  
+ 
 ### 🧑‍🤝‍🧑 Statistics
 * Improving Your Statistical Inferences - Daniel Lakens [Online book](https://lakens.github.io/statistical_inferences/)
 * easystats: An R Framework for Easy Statistical Modeling, Visualization, and Reporting - [R library](https://easystats.github.io/easystats/)
