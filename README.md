@@ -41,4 +41,7 @@
 ### 🦴 Biomechanics
 * pytransform3d: 3D transformations documentation & definitions - [Python library](https://dfki-ric.github.io/pytransform3d/)
 * EZC3D: Read, modify, and write C3D in Python - [Python library](https://github.com/pyomeca/ezc3d)
+* AddbBiomechanics: Open access dataset and processing platform - [Website](https://addbiomechanics.org/)
+* GroundLink: A Dataset Unifying Human Body Movement and Ground Reaction Dynamics - [Website](https://csr.bu.edu/groundlink/)
+
 
