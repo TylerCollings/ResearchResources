@@ -16,7 +16,7 @@
 * quartets: Datasets to help teach statistics - [Github Link](https://r-causal.github.io/quartets/).
 * marginaleffects - Model to Meaning - [R library](https://marginaleffects.com/)
 * Matching and Weighting for Causal Inference: A Primer and Tutorial - [tutorial](https://iqss.github.io/dss-ps/)
-
+* Live Free or Dichotomize - [blog](https://livefreeordichotomize.com/)
 
 ### 📊 Data science
 * R for Data Science (2nd Edition) - [Online book](https://r4ds.hadley.nz/)
