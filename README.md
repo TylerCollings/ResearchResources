@@ -14,6 +14,9 @@
 * In search of fewer independent risk factors - Brotman et al. 2005 - [Article link](https://doi.org/10.1001/archinte.165.2.138)
 * Mixtape-Sessions — courses in Casual Inference - [Github Link](https://github.com/Mixtape-Sessions/).
 * quartets: Datasets to help teach statistics - [Github Link](https://r-causal.github.io/quartets/).
+* marginaleffects - Model to Meaning - [R library](https://marginaleffects.com/)
+* Matching and Weighting for Causal Inference: A Primer and Tutorial - [tutorial](https://iqss.github.io/dss-ps/)
+
 
 ### 📊 Data science
 * R for Data Science (2nd Edition) - [Online book](https://r4ds.hadley.nz/)
